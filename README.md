@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="Pixel Art Wallpaper Desktop Gif.gif" alt="Coding workspace banner" width="80%" />
+  <img src="./Pixel Art Wallpaper Desktop Gif.gif" alt="Coding workspace banner" width="80%" />
 </p>
 
 
@@ -48,5 +48,5 @@ Always learning, building, and trying to get better.
 ---
 
 <p align="center">
-  <i>Still learning. Still building. Still figuring it all out — at my own pace.</i> 💻✨
+  <i>Still learning. Still building. Still figuring it all out — at my own pace.</i> &nbsp;💻✨
 </p>
