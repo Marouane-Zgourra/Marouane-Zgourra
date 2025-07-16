@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="YOUR_IMAGE_URL" alt="Coding workspace banner" width="80%" />
+  <img src="Pixel Art Wallpaper Desktop Gif.gif" alt="Coding workspace banner" width="80%" />
 </p>
 
 
