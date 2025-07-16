@@ -13,7 +13,7 @@ I'm a self-taught frontend developer focused on **HTML**, **CSS**, **JavaScript*
 
 I’m learning at my own pace — improving step by step by building small projects and experimenting with things that interest me 🔍.
 
-I use AI tools to help understand concepts, fix bugs, and speed up coding — focusing on real examples over memorization 🤖✨.
+I use AI tools to speed up my learning, solve bugs, get unstuck, and generate clean, working code. I focus on understanding how things work by experimenting with real examples and improving through practice 🤖✨.
 
 I’ve also explored basics of **PHP**, **Laravel**, and **WordPress**, but my focus is mostly on frontend technologies 🖥️.
 
