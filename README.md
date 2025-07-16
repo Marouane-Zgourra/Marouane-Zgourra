@@ -26,15 +26,15 @@ Always learning, building, and improving at my own pace 🛠️.
 ### 🛠 Tech I Use
 
 <p align="left">
-  <img src="https://cdn.simpleicons.org/html5/E34F26?size=40" alt="HTML" title="HTML" width="40" height="40" style="margin-right:10px"/>
-  <img src="https://cdn.simpleicons.org/css/663399?size=40" alt="CSS" title="CSS" width="40" height="40" style="margin-right:10px"/>
-  <img src="https://cdn.simpleicons.org/javascript/F7DF1E?size=40" alt="JavaScript" title="JavaScript" width="40" height="40" style="margin-right:10px"/>
-  <img src="https://cdn.simpleicons.org/react/61DAFB?size=40" alt="React" title="React" width="40" height="40" style="margin-right:10px"/>
-  <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4?size=40" alt="Tailwind CSS" title="Tailwind CSS" width="40" height="40" style="margin-right:10px"/>
-  <img src="https://cdn.simpleicons.org/bootstrap/7952B3?size=40" alt="Bootstrap" title="Bootstrap" width="40" height="40" style="margin-right:10px"/>
-  <img src="https://cdn.simpleicons.org/git/F05032?size=40" alt="Git" title="Git" width="40" height="40" style="margin-right:10px"/>
-  <img src="https://cdn.simpleicons.org/github/000000/ffffff?size=40" alt="GitHub" title="GitHub" width="40" height="40" style="margin-right:10px"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" title="VS Code" width="40" height="40" />
+  <img src="https://cdn.simpleicons.org/html5/E34F26?size=40" alt="HTML" title="HTML" width="40" height="40" style="margin-right:20px"/>
+  <img src="https://cdn.simpleicons.org/css/663399?size=40" alt="CSS" title="CSS" width="40" height="40" style="margin-right:20px"/>
+  <img src="https://cdn.simpleicons.org/javascript/F7DF1E?size=40" alt="JavaScript" title="JavaScript" width="40" height="40" style="margin-right:20px"/>
+  <img src="https://cdn.simpleicons.org/react/61DAFB?size=40" alt="React" title="React" width="40" height="40" style="margin-right:20px"/>
+  <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4?size=40" alt="Tailwind CSS" title="Tailwind CSS" width="40" height="40" style="margin-right:20px"/>
+  <img src="https://cdn.simpleicons.org/bootstrap/7952B3?size=40" alt="Bootstrap" title="Bootstrap" width="40" height="40" style="margin-right:20px"/>
+  <img src="https://cdn.simpleicons.org/git/F05032?size=40" alt="Git" title="Git" width="40" height="40" style="margin-right:20px"/>
+  <img src="https://cdn.simpleicons.org/github/000000/ffffff?size=40" alt="GitHub" title="GitHub" width="40" height="40" style="margin-right:20px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" title="VS Code" width="40" height="40" style="margin-right:20px"/>
 </p>
 
 ---
@@ -42,9 +42,9 @@ Always learning, building, and improving at my own pace 🛠️.
 ### 🧪 Also Explored (Basic Level) 
 
 <p align="left">
-  <img src="https://cdn.simpleicons.org/php/777BB4?size=40" alt="PHP" title="PHP" width="40" height="40" style="margin-right:10px"/>
-  <img src="https://cdn.simpleicons.org/laravel/FF2D20?size=40" alt="Laravel" title="Laravel" width="40" height="40" style="margin-right:10px"/>
-  <img src="https://cdn.simpleicons.org/wordpress/21759B?size=40" alt="WordPress" title="WordPress" width="40" height="40" style="margin-right:10px"/>
+  <img src="https://cdn.simpleicons.org/php/777BB4?size=40" alt="PHP" title="PHP" width="40" height="40" style="margin-right:20px"/>
+  <img src="https://cdn.simpleicons.org/laravel/FF2D20?size=40" alt="Laravel" title="Laravel" width="40" height="40" style="margin-right:20px"/>
+  <img src="https://cdn.simpleicons.org/wordpress/21759B?size=40" alt="WordPress" title="WordPress" width="40" height="40" style="margin-right:20px"/>
 </p>
 
 ---
