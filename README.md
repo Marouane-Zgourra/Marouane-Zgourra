@@ -39,7 +39,7 @@ Always learning, building, and improving at my own pace 🛠️.
 
 ---
 
-### 🧪 Also Explored (Basic Level) 
+### 🧪 Also Explored (Basic Level)
 
 <p align="left">
   <img src="https://cdn.simpleicons.org/php/777BB4?size=40" alt="PHP" title="PHP" width="40" height="40" style="margin-right:20px"/>
@@ -52,3 +52,4 @@ Always learning, building, and improving at my own pace 🛠️.
 <p align="center">
   <i>Still learning. Still building. Still figuring it all out — at my own pace.</i> &nbsp;💻✨
 </p>
+
