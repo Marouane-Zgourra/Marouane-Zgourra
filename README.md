@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./Live Wallpaper PC.jfif" alt="Coding workspace banner" width="100%" style="max-width:700px" />
+  <img src="./Pixel Art Wallpaper Desktop Gif.gif" alt="Coding workspace banner" width="100%" style="max-width:700px" />
 </p>
 
 <h1 align="center">Hi, I'm Marouane 👋</h1>
