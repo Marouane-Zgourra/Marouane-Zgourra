@@ -8,20 +8,13 @@
   Junior Frontend Developer 🚀
 </p>
 
-<p align="center">
-  Graduate of an intensive 4-month Frontend Bootcamp • Focused on building real-world web apps
-</p>
-
 ---
 
 ## 👨‍💻 About Me
 
 I'm a passionate frontend developer who started as **self-taught**, learning the fundamentals of HTML, CSS, and JavaScript.
 
-I recently completed an **intensive 4-month Frontend bootcamp** at Algorium Academy, where I worked on practical projects using modern technologies such as React, TypeScript, and Next.js.
-
-Although the bootcamp was short, it gave me a strong foundation and real project experience.  
-I’m now focused on **deepening my understanding**, improving my problem-solving skills, and becoming job-ready.
+I'm now focused on deepening my understanding, especially in Reactjs and Nextjs TypeScript, and becoming job-ready.
 
 My goal is to grow into a reliable, professional frontend developer and contribute to real-world products.
 
@@ -35,9 +28,12 @@ My goal is to grow into a reliable, professional frontend developer and contribu
   <img src="https://cdn.simpleicons.org/javascript/F7DF1E?size=40" alt="JavaScript" title="JavaScript" width="40" height="40" style="margin-right:20px"/>
   <img src="https://cdn.simpleicons.org/typescript/3178C6?size=40" alt="TypeScript" title="TypeScript" width="40" height="40" style="margin-right:20px"/>
   <img src="https://cdn.simpleicons.org/react/61DAFB?size=40" alt="React" title="React" width="40" height="40" style="margin-right:20px"/>
-  <img src="https://cdn.simpleicons.org/nextdotjs/000000/ffffff?size=40" alt="Next.js" title="Next.js" width="40" height="40" style="margin-right:20px"/>
+  <img src="https://cdn.simpleicons.org/nextdotjs/ffffff?size=40" alt="Next.js" title="Next.js" width="40" height="40" style="margin-right:20px"/>
   <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4?size=40" alt="Tailwind CSS" title="Tailwind CSS" width="40" height="40" style="margin-right:20px"/>
   <img src="https://cdn.simpleicons.org/bootstrap/7952B3?size=40" alt="Bootstrap" title="Bootstrap" width="40" height="40" style="margin-right:20px"/>
+  <img src="https://cdn.simpleicons.org/supabase/3ECF8E?size=40" alt="Supabase" title="Supabase" width="40" height="40" style="margin-right:20px"/>
+  <img src="https://cdn.simpleicons.org/shadcnui/ffffff?size=40" alt="ShadcnUI" title="ShadcnUI" width="40" height="40" style="margin-right:20px"/>
+  <img src="https://cdn.simpleicons.org/wordpress/21759B?size=40" alt="WordPress" title="WordPress" width="40" height="40" style="margin-right:20px"/>
 </p>
 
 ---
@@ -57,6 +53,15 @@ My goal is to grow into a reliable, professional frontend developer and contribu
 
 ---
 
+## 🌱 Also Explored (Basic Level)
+
+<p align="left">
+  <img src="https://cdn.simpleicons.org/php/777BB4?size=40" alt="PHP" title="PHP" width="40" height="40" style="margin-right:20px"/>
+  <img src="https://cdn.simpleicons.org/laravel/FF2D20?size=40" alt="Laravel" title="Laravel" width="40" height="40" style="margin-right:20px"/>
+</p>
+
+---
+
 ## 📚 Current Focus
 
 I am currently working on:
@@ -64,23 +69,10 @@ I am currently working on:
 - Improving React architecture and state management
 - Becoming more confident with TypeScript
 - Learning Next.js more deeply
-- Building personal projects without over-relying on AI
-
----
-
-## 🌱 Also Explored (Basic Level)
-
-<p align="left">
-  <img src="https://cdn.simpleicons.org/php/777BB4?size=40" alt="PHP" title="PHP" width="40" height="40" style="margin-right:20px"/>
-  <img src="https://cdn.simpleicons.org/laravel/FF2D20?size=40" alt="Laravel" title="Laravel" width="40" height="40" style="margin-right:20px"/>
-  <img src="https://cdn.simpleicons.org/wordpress/21759B?size=40" alt="WordPress" title="WordPress" width="40" height="40" style="margin-right:20px"/>
-</p>
-
 ---
 
 ## 🎯 Goals
 
-- Build a strong portfolio
 - Master modern frontend development
 - Contribute to open-source projects
 - Land a junior frontend developer position
