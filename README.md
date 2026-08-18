@@ -33,7 +33,6 @@ My goal is to grow into a reliable, professional frontend developer and contribu
   <img src="https://cdn.simpleicons.org/bootstrap/7952B3?size=40" alt="Bootstrap" title="Bootstrap" width="40" height="40" style="margin-right:20px"/>
   <img src="https://cdn.simpleicons.org/supabase/3ECF8E?size=40" alt="Supabase" title="Supabase" width="40" height="40" style="margin-right:20px"/>
   <img src="https://cdn.simpleicons.org/shadcnui/ffffff?size=40" alt="ShadcnUI" title="ShadcnUI" width="40" height="40" style="margin-right:20px"/>
-  <img src="https://cdn.simpleicons.org/wordpress/21759B?size=40" alt="WordPress" title="WordPress" width="40" height="40" style="margin-right:20px"/>
 </p>
 
 ---
@@ -56,6 +55,7 @@ My goal is to grow into a reliable, professional frontend developer and contribu
 ## 🌱 Also Explored (Basic Level)
 
 <p align="left">
+  <img src="https://cdn.simpleicons.org/wordpress/21759B?size=40" alt="WordPress" title="WordPress" width="40" height="40" style="margin-right:20px"/>
   <img src="https://cdn.simpleicons.org/php/777BB4?size=40" alt="PHP" title="PHP" width="40" height="40" style="margin-right:20px"/>
   <img src="https://cdn.simpleicons.org/laravel/FF2D20?size=40" alt="Laravel" title="Laravel" width="40" height="40" style="margin-right:20px"/>
 </p>
